@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Moh Abdul Rehman/AndroidStudioProjects/AnimalRescueSystem/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24375" />
+        <entry key="..\:/Users/Moh Abdul Rehman/AndroidStudioProjects/AnimalRescueSystem/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24375" />
+        <entry key="..\:/Users/Moh Abdul Rehman/AndroidStudioProjects/AnimalRescueSystem/app/src/main/res/layout/activity_admin_login.xml" value="0.264" />
+        <entry key="..\:/Users/Moh Abdul Rehman/AndroidStudioProjects/AnimalRescueSystem/app/src/main/res/layout/activity_animalshelterpage.xml" value="0.2" />
+        <entry key="..\:/Users/Moh Abdul Rehman/AndroidStudioProjects/AnimalRescueSystem/app/src/main/res/layout/activity_login_animalshelter.xml" value="0.264" />
+        <entry key="..\:/Users/Moh Abdul Rehman/AndroidStudioProjects/AnimalRescueSystem/app/src/main/res/layout/activity_login_user.xml" value="0.2542372881355932" />
+        <entry key="..\:/Users/Moh Abdul Rehman/AndroidStudioProjects/AnimalRescueSystem/app/src/main/res/layout/activity_login_volunteer.xml" value="0.2669039145907473" />
+        <entry key="..\:/Users/Moh Abdul Rehman/AndroidStudioProjects/AnimalRescueSystem/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Moh Abdul Rehman/AndroidStudioProjects/AnimalRescueSystem/app/src/main/res/layout/activity_signup_animalshelter.xml" value="0.264" />
+        <entry key="..\:/Users/Moh Abdul Rehman/AndroidStudioProjects/AnimalRescueSystem/app/src/main/res/layout/activity_signup_volunteer.xml" value="0.264" />
+        <entry key="..\:/Users/Moh Abdul Rehman/AndroidStudioProjects/AnimalRescueSystem/app/src/main/res/layout/activity_signupuser.xml" value="0.264" />
+        <entry key="..\:/Users/Moh Abdul Rehman/AndroidStudioProjects/AnimalRescueSystem/app/src/main/res/layout/activity_user_landingpage.xml" value="0.1585144927536232" />
+        <entry key="..\:/Users/Moh Abdul Rehman/AndroidStudioProjects/AnimalRescueSystem/app/src/main/res/layout/activity_userpage.xml" value="0.2" />
+        <entry key="..\:/Users/Moh Abdul Rehman/AndroidStudioProjects/AnimalRescueSystem/app/src/main/res/layout/activity_volunteerpage.xml" value="0.2" />
+        <entry key="..\:/Users/Moh Abdul Rehman/AndroidStudioProjects/AnimalRescueSystem/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Moh Abdul Rehman/AndroidStudioProjects/AnimalRescueSystem/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.24375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
